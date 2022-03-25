@@ -86,14 +86,13 @@ p.colour,
 p.stock {
   font-family: serif;
   color: black;
-  font-weight: bold;
   font-size: 1rem;
   padding-left: 1rem;
 }
 
 button {
   /*margin: 0 7rem 0.7rem;*/
-  width: 35%;
+  width: 100px;
   align-self: center;
   padding: 0.5rem 0 0.5rem;
   background-color: transparent;
